@@ -84,7 +84,7 @@ The project highlights:
 
 ## 👨‍💻 Author
 
-**Developed by:** [Niku Namada](https://github.com/honestdev125)  
+**Developed by:** [Alpinist](https://github.com/alpinist-dev)  
 💬 Front-End Developer | Passionate about modern UI and smooth animations  
 
 ---
